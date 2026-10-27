@@ -1,4 +1,10 @@
-<h1 data-importer="text" align="center">Hi, I'm Fayaz 👋<br>Founder & CEO of DocuFast India · Full-stack builder from Telangana, India<br><br>Documents Made Easy, Delivered To You</h1>
+<h1 data-importer="text" align="left">Hi, I'm Fayaz 👋<br>Founder & CEO of DocuFast India · Full-stack builder from Telangana, India<br>Documents Made Easy, Delivered To You</h1>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
 
 ###
 
@@ -137,12 +143,6 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
 </div>
 
 ###
