@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Syed Fayaz Ali, Founder and CEO of DocuFast India">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A2E6E"/>
+      <stop offset="0.65" stop-color="#14439a"/>
+      <stop offset="1" stop-color="#F4B000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" rx="14" fill="url(#bg)"/>
+  <path d="M0 150 C 180 110, 320 190, 520 150 S 860 110, 1000 150 L1000 200 L0 200 Z" fill="#ffffff" fill-opacity="0.10"/>
+  <path d="M0 170 C 200 140, 360 205, 560 172 S 880 140, 1000 172 L1000 200 L0 200 Z" fill="#ffffff" fill-opacity="0.10"/>
+  <text x="500" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Syed Fayaz Ali</text>
+  <text x="500" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" fill-opacity="0.95">Founder &amp; CEO of DocuFast India  |  Full-stack builder</text>
+</svg>

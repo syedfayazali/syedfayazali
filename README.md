@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2E6E,100:F4B000&height=170&section=header&text=Syed%20Fayaz%20Ali&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20of%20DocuFast%20India%20%C2%B7%20Full-stack%20builder&descSize=17&descAlignY=60" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/syedfayazali/syedfayazali/main/assets/header.svg" width="100%" alt="Syed Fayaz Ali, Founder and CEO of DocuFast India" />
 
 **Documents Made Easy, Delivered To You**
 
